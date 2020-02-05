@@ -13,3 +13,4 @@ Quality tools for Unity 3D
 - Mathf.Clamp for clamping values
 - Add multiple elements to an array with inspector locking and multi-drag
 - Align with view : Select the camera and hit Ctrl + Shift + F
+- F : focus on object, F F : focus on object continuously
