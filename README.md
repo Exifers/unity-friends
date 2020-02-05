@@ -5,6 +5,8 @@ Quality tools for Unity 3D
 - https://assetstore.unity.com/packages/tools/camera/rts-camera-43321
 - ProBuilder & ProGrids (integrated with Unity)
 - https://assetstore.unity.com/packages/essentials/asset-packs/unity-particle-pack-5-x-73777?aid=1101lPGj&cid=1011l7EPFAyN&utm_source=aff
+- https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126
+- https://assetstore.unity.com/packages/3d/props/exterior/rock-and-boulders-2-6947
 
 
 ## Tips
