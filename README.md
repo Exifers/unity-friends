@@ -12,6 +12,7 @@ Quality tools for Unity 3D
   - right click and paste component values
 - Hold down Alt while tweaking a value to fine tune
 - Mathf.Clamp for clamping values
+  - Sometimes used as Mathf.Clamp(value, 0, int.MaxValue);
 - Add multiple elements to an array with inspector locking and multi-drag
 - Align with view : Select the camera and hit Ctrl + Shift + F
 - F : focus on object, F F : focus on object continuously
