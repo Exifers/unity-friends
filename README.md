@@ -2,6 +2,7 @@
 Quality tools for Unity 3D
 
 - https://github.com/SlightlyMad/VolumetricLights/
+- https://assetstore.unity.com/packages/tools/camera/rts-camera-43321
 
 
 ## Tips
