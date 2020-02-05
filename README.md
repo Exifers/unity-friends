@@ -9,3 +9,4 @@ Quality tools for Unity 3D
   - right click and copy component values
   - exit play mode
   - right click and paste component values
+- Hold down Alt while tweaking a value to fine tune
