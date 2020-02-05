@@ -10,3 +10,4 @@ Quality tools for Unity 3D
   - exit play mode
   - right click and paste component values
 - Hold down Alt while tweaking a value to fine tune
+- Mathf.Clamp for clamping values
