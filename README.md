@@ -15,3 +15,4 @@ Quality tools for Unity 3D
 - Align with view : Select the camera and hit Ctrl + Shift + F
 - F : focus on object, F F : focus on object continuously
 - Alt + Click on hierarchy : expand all
+- Undock preview : Double click on the bar above the preview
