@@ -19,3 +19,4 @@ Quality tools for Unity 3D
 - Alt + Click on hierarchy : expand all
 - Undock preview : Double click on the bar above the preview
 - Persists data : PlayerPrefs.Set<...>
+- Coroutines : StartCoroutine(Foo()); IEnumerator Foo() { return new WaitForSeconds(delay); }
