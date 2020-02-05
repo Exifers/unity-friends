@@ -11,3 +11,4 @@ Quality tools for Unity 3D
   - right click and paste component values
 - Hold down Alt while tweaking a value to fine tune
 - Mathf.Clamp for clamping values
+- Add multiple elements to an array with inspector locking and multi-drag
