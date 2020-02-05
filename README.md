@@ -16,3 +16,4 @@ Quality tools for Unity 3D
 - F : focus on object, F F : focus on object continuously
 - Alt + Click on hierarchy : expand all
 - Undock preview : Double click on the bar above the preview
+- Persists data : PlayerPrefs.Set<...>
